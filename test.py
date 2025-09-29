@@ -1,4 +1,4 @@
 print("This is Version3")
-printuq("Hello Devs")
+print("Hello Devs")
 
 
